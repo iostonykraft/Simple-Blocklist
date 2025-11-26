@@ -44,6 +44,7 @@
 ||metrics.mzstatic.com^
 ||metrics.icloud.com^
 ||metrics2.data.hicloud.com^
+||mobile-data.onetrust.io^
 ||notes-analytics-events.apple.com^
 ||samsungads.com^
 ||sentry.dev^
