@@ -1,5 +1,6 @@
 ||adfstat.yandex.ru^
 ||adtech.yahooinc.com^
+||adtidy.org^
 ||adx.ads.oppomobile.com^
 ||adtago.s3.amazonaws.com^
 ||ads.pinterest.com^
@@ -46,6 +47,8 @@
 ||metrics2.data.hicloud.com^
 ||notes-analytics-events.apple.com^
 ||samsungads.com^
+||sentry.io^
+||sentry.dev^
 ||smetrics.samsung.com^
 ||sdkconfig.ad.xiaomi.com^
 ||sdkconfig.ad.intl.xiaomi.com^
