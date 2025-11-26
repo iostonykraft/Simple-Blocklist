@@ -1,10 +1,10 @@
 ||adfstat.yandex.ru^
 ||adtech.yahooinc.com^
-||adtidy.org^
-||adx.ads.oppomobile.com^
 ||adtago.s3.amazonaws.com^
 ||ads.pinterest.com^
 ||ads.youtube.com^
+||adx.ads.oppomobile.com^
+||adtidy.com^
 ||analytics-api.samsunghealthcn.com^
 ||analytics.hubspot.com^
 ||analytics.pinterest.com^
@@ -25,7 +25,6 @@
 ||data.mistat.xiaomi.com^
 ||events.redditmedia.com^
 ||freshmarketer.com^
-||fwtracks.freshmarketer.com^
 ||functionalclam.com^
 ||geo.yahoo.com^
 ||gemini.yahoo.com^
@@ -35,6 +34,7 @@
 ||iot-eu-logser.realme.com^
 ||iot-logser.realme.com^
 ||jpcust.jwpsrv.com^
+||jwpconnatix.com^
 ||log.byteoversea.com^
 ||log.fc.yahoo.com^
 ||log.pinterest.com^
@@ -47,8 +47,8 @@
 ||metrics2.data.hicloud.com^
 ||notes-analytics-events.apple.com^
 ||samsungads.com^
-||sentry.io^
 ||sentry.dev^
+||sentry.io^
 ||smetrics.samsung.com^
 ||sdkconfig.ad.xiaomi.com^
 ||sdkconfig.ad.intl.xiaomi.com^
@@ -58,6 +58,5 @@
 ||udc.yahoo.com^
 ||udcm.yahoo.com^
 ||unityads.unity3d.com^
-||jwpconnatix.com^
 ||weather-analytics-events.apple.com^
 ||track.hubspot.com^
