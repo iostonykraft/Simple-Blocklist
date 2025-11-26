@@ -4,7 +4,6 @@
 ||ads.pinterest.com^
 ||ads.youtube.com^
 ||adx.ads.oppomobile.com^
-||adtidy.com^
 ||analytics-api.samsunghealthcn.com^
 ||analytics.hubspot.com^
 ||analytics.pinterest.com^
